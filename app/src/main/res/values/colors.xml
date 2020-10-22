@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#790000</color>
+    <color name="colorPrimaryDark">#790000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#FF000000</color>
+    <color name="lessblack">#52000000</color>
+    <color name="white">#ffffff</color>
+    <color name="duration_background_color">#aa000000</color>
+    <color name="duration_text_color">#EEFFFFFF</color>
+    <color name="video_overlay_color">#64000000</color>
+    <color name="dark_settings_accent_color">#ff5252</color>
+    <color name="black_settings_accent_color">#ff5252</color>
+    <color name="background_notification_color">#323232</color>
+    <color name="background_title_color">#ffffff</color>
+    <color name="background_subtext_color">#999999</color>
+    <color name="light_youtube_primary_color">#e53935</color>
+    <color name="light_youtube_dark_color">#992722</color>
+    <color name="light_youtube_accent_color">#000000</color>
+    <color name="light_youtube_statusbar_color">#ff4336</color>
+    <color name="light_background_color">#EEEEEE</color>
+    <color name="dark_youtube_primary_color">#CD322E</color>
+    <color name="dark_youtube_dark_color">#992722</color>
+    <color name="dark_youtube_accent_color">#FFFFFF</color>
+    <color name="dark_youtube_statusbar_color">#ff4336</color>
+    <color name="dark_background_color">#222222</color>
+    <color name="black_background_color">#000000</color>
+    <color name="black_separator_color">#1effffff</color>
+    <color name="black_contrast_background_color">#23454545</color>
+    <color name="textColor">#790000</color>
+    <color name="textColor2">#790000</color>
+    <color name="test">#DADADA</color>
+
+
+</resources>

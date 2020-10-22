@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="draggable_panel">
+
+    <attr name="top_fragment_height" format="dimension"/>
+    <attr name="x_scale_factor" format="float"/>
+    <attr name="y_scale_factor" format="float"/>
+    <attr name="top_fragment_margin_right" format="dimension"/>
+    <attr name="top_fragment_margin_bottom" format="dimension"/>
+    <attr name="enable_horizontal_alpha_effect" format="boolean"/>
+    <attr name="enable_click_to_maximize_panel" format="boolean"/>
+    <attr name="enable_click_to_minimize_panel" format="boolean"/>
+    <attr name="enable_touch_listener_panel" format="boolean"/>
+  </declare-styleable>
+
+  <declare-styleable name="draggable_view">
+    <attr name="top_view_id" format="reference"/>
+    <attr name="bottom_view_id" format="reference"/>
+    <attr name="top_view_height" format="dimension"/>
+    <attr name="top_view_x_scale_factor" format="float"/>
+    <attr name="top_view_y_scale_factor" format="float"/>
+    <attr name="top_view_margin_right" format="dimension"/>
+    <attr name="top_view_margin_bottom" format="dimension"/>
+    <attr name="enable_minimized_horizontal_alpha_effect" format="boolean"/>
+    <attr name="enable_click_to_maximize_view" format="boolean"/>
+    <attr name="enable_click_to_minimize_view" format="boolean"/>
+    <attr name="top_view_resize" format="boolean"/>
+  </declare-styleable>
+
+  <attr name="thumbs_up" format="reference"/>
+  <attr name="thumbs_down" format="reference"/>
+  <attr name="info" format="reference"/>
+  <attr name="audio" format="reference"/>
+  <attr name="download" format="reference"/>
+  <attr name="share" format="reference"/>
+  <attr name="cast" format="reference"/>
+  <attr name="rss" format="reference"/>
+  <attr name="search" format="reference"/>
+  <attr name="close" format="reference"/>
+  <attr name="filter" format="reference"/>
+  <attr name="popup" format="reference"/>
+  <attr name="expand" format="reference"/>
+  <attr name="collapse" format="reference"/>
+  <attr name="volume_off" format="reference"/>
+  <attr name="clear_history" format="reference" />
+  <attr name="palette" format="reference"/>
+  <attr name="language" format="reference"/>
+  <attr name="history" format="reference"/>
+  <attr name="drag_handle" format="reference"/>
+  <attr name="selected" format="reference"/>
+  <attr name="search_add" format="reference"/>
+  <attr name="options" format="reference"/>
+  <attr name="play" format="reference"/>
+  <attr name="bug" format="reference"/>
+  <attr name="settings" format="reference"/>
+  <attr name="ic_hot" format="reference"/>
+  <attr name="ic_channel" format="reference"/>
+  <attr name="ic_bookmark" format="reference"/>
+  <attr name="ic_playlist_add" format="reference"/>
+  <attr name="ic_playlist_check" format="reference"/>
+  <attr name="ic_import_export" format="reference"/>
+  <attr name="ic_save" format="reference"/>
+  <attr name="ic_backup" format="reference"/>
+  <attr name="ic_add" format="reference"/>
+  <attr name="ic_restore_defaults" format="reference"/>
+  <attr name="ic_blank_page" format="reference"/>
+  <attr name="ic_list" format="reference"/>
+  <attr name="ic_grid" format="reference"/>
+  <attr name="ic_delete" format="reference"/>
+  <attr name="ic_settings_update" format="reference"/>
+
+  <attr name="toolbar_shadow_drawable" format="reference"/>
+  <attr name="selector_drawable" format="reference"/>
+  <attr name="checked_selector_drawable" format="reference"/>
+
+  <attr name="separator_color" format="color"/>
+  <attr name="queue_background_color" format="color"/>
+  <attr name="contrast_background_color" format="color"/>
+  <attr name="windowBackground" format="color"/>
+  <attr name="colorPrimary" format="color"/>
+
+</resources>

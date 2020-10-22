@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797733549364",
+    "firebase_url": "https://video-player-sale.firebaseio.com",
+    "project_id": "video-player-sale",
+    "storage_bucket": "video-player-sale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797733549364:android:b2d0ef2c29befc56a72161",
+        "android_client_info": {
+          "package_name": "video.player.qrplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797733549364-0sknmgqoa2dqtr0f8l0e3g9e0jq5dupo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvAVMp7UKV7rN154D3DLN3XZUF1YWrOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797733549364-0sknmgqoa2dqtr0f8l0e3g9e0jq5dupo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

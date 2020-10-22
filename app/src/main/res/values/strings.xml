@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">QR Media Player</string>
+
+    <string name="tips_not_wifi">You are currently using the mobile network, the player will continue to consume traffic</string>
+    <string name="tips_not_wifi_confirm">Resume</string>
+    <string name="tips_not_wifi_cancel">Stop play</string>
+    <string name="no_url">No url</string>
+    <string name="replay">Replay</string>
+    <string name="click_to_restart">Click to try again</string>
+    <string name="video_loading_faild">Video loading failed</string>
+
+    <!--admobads-->
+    <string name="appId">ca-app-pub-5111730154290707~7350700818</string>
+    <string name="adUnitID">ca-app-pub-5111730154290707/5954515204</string>
+    <!--<string name="Interstitial">ca-app-pub-5111730154290707/5954515204</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_channel_id" translatable="false">newpipe</string>
+    <string name="notification_channel_name">NewPipe Notification</string>
+    <string name="notification_channel_description">Notifications for NewPipe background and popup players</string>
+    <string name="app_update_notification_channel_id" translatable="false">newpipeAppUpdate</string>
+    <string name="app_update_notification_channel_name">App Update Notification</string>
+    <string name="app_update_notification_channel_description">Notifications for new NewPipe version</string>
+    <string name="caption_auto_generated">Auto-generated</string>
+    <string name="resize_fit">Fit</string>
+    <string name="resize_fill">Fill</string>
+    <string name="resize_zoom">Zoom</string>
+    <string name="minimize_on_exit_none_key" translatable="false">minimize_on_exit_none_key</string>
+    <string name="minimize_on_exit_popup_key" translatable="false">minimize_on_exit_popup_key</string>
+    <string name="minimize_on_exit_background_key" translatable="false">minimize_on_exit_background_key</string>
+    <string name="brightness_gesture_control_key" translatable="false">brightness_gesture_control</string>
+    <string name="popup_remember_size_pos_key" translatable="false">popup_remember_size_pos_key</string>
+    <string name="use_inexact_seek_key" translatable="false">use_inexact_seek_key</string>
+    <string name="auto_queue_key" translatable="false">auto_queue_key</string>
+    <string name="screen_brightness_key" translatable="false">screen_brightness_key</string>
+    <string name="screen_brightness_timestamp_key" translatable="false">screen_brightness_timestamp_key</string>
+    <string name="minimize_on_exit_key" translatable="false">minimize_on_exit_key</string>
+    <string name="resume_on_audio_focus_gain_key" translatable="false">resume_on_audio_focus_gain</string>
+    <string name="volume_gesture_control_key" translatable="false">volume_gesture_control</string>
+    <string name="list_thumbnail_view_description">Video preview thumbnail</string>
+    <string name="duration_live_button" translatable="false">LIVE</string>
+    <string name="popup_resizing_indicator_title">Resizing</string>
+    <string name="light_theme_key" translatable="false">light_theme</string>
+    <string name="dark_theme_key" translatable="false">dark_theme</string>
+    <string name="black_theme_key" translatable="false">black_theme</string>
+    <string name="theme_key" translatable="false">theme</string>
+    <string name="default_theme_value" translatable="false">dark_theme</string>
+    <string name="default_resolution_key" translatable="false">default_resolution</string>
+    <string name="default_resolution_value" translatable="false">360p</string>
+    <string name="show_higher_resolutions_key" translatable="false">show_higher_resolutions</string>
+    <string name="default_popup_resolution_key" translatable="false">default_popup_resolution</string>
+    <string name="default_popup_resolution_value" translatable="false">360p</string>
+    <string name="best_resolution_key" translatable="false">best_resolution</string>
+    <string name="default_audio_format_key" translatable="false">default_audio_format</string>
+    <string name="default_audio_format_value" translatable="false">audio_m4a</string>
+    <string name="default_video_format_key" translatable="false">default_video_format</string>
+    <string name="default_video_format_value" translatable="false">video_mp4</string>
+    <string name="video_mp4_key" translatable="false">video_mp4</string>
+    <string name="video_webm_key" translatable="false">video_webm</string>
+    <string name="video_3gp_key" translatable="false">video_3gp</string>
+    <string name="audio_m4a_key" translatable="false">audio_m4a</string>
+    <string name="audio_webm_key" translatable="false">audio_webm</string>
+    <string name="limit_mobile_data_usage_key" translatable="false">limit_mobile_data_usage</string>
+    <string name="limit_data_usage_none_key" translatable="false">limit_data_usage_none</string>
+    <string name="popup_playing_toast">Playing in popup mode</string>
+    <string name="popup_playing_append">Queued on popup player</string>
+    <string name="video_streams_empty">No video streams found</string>
+    <string name="audio_streams_empty">No audio streams found</string>
+    <string name="no_player_found">No stream player found. Do you want to install VLC?</string>
+    <string name="install">Install</string>
+    <string name="cancel">Cancel</string>
+    <string name="fdroid_vlc_url" translatable="false">https://f-droid.org/repository/browse/?fdfilter=vlc&amp;fdid=org.videolan.vlc</string>
+    <string name="no_player_found_toast">No stream player found (you can install VLC to play it).</string>
+    <string name="kore_package" translatable="false">org.xbmc.kore</string>
+    <string name="content_language_key" translatable="false">content_language</string>
+    <string name="content_country_key" translatable="false">content_country</string>
+    <string name="default_country_value">GB</string>
+    <string name="default_language_value">en</string>
+    <string name="player_unrecoverable_failure">Unrecoverable player error occurred</string>
+    <string name="player_recoverable_failure">Recovering from player error</string>
+    <string name="player_stream_failure">Could not play this stream</string>
+    <string name="unknown_content">[Unknown]</string>
+    <string name="caption_none">No Captions</string>
+    <string name="msg_popup_permission">This permission is needed to\nopen in popup mode</string>
+    <string name="track_selection_title">Select Track</string>
+
+</resources>
